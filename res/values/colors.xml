@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="actionbar_red">#992828</color>
+    <color name="game_overlay">#99000000</color>
+    <color name="card_shadow">#d8d8d8</color>
+    <color name="card_text_title">#777</color>
+    <color name="card_text_desc">#555</color>
+</resources>

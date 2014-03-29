@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Card -->
+    <!--<item>
+        <shape android:shape="rectangle" >
+            <solid android:color="@android:color/background_dark" />
+
+            <stroke
+                android:width="2.0px"
+                android:color="#ff111111" />
+
+            <corners
+                android:bottomLeftRadius="2.0dip"
+                android:bottomRightRadius="2.0dip"
+                android:topLeftRadius="2.0dip"
+                android:topRightRadius="2.0dip" />
+
+            <padding
+                android:bottom="8.0dip"
+                android:left="8.0dip"
+                android:right="8.0dip"
+                android:top="8.0dip" />
+        </shape>
+    </item>-->
+    <!-- Bottom 2dp Shadow -->
+    <item>
+        <shape android:shape="rectangle" >
+ 
+            <solid android:color="@color/card_shadow" />
+            <corners android:radius="2.0dp" />
+ 
+        </shape>
+    </item>
+    <item android:bottom="2dp">
+        <shape android:shape="rectangle" >
+            <solid android:color="@android:color/white" />
+
+            <!--<stroke
+                android:width="2.0px"
+                android:color="#ffdddddd" />-->
+
+            <corners android:radius="2.0dp" />
+
+            <padding
+                android:bottom="16.0dp"
+                android:left="16.0dp"
+                android:right="16.0dp"
+                android:top="10.0dp" />
+        </shape>
+    </item>
+
+</layer-list>

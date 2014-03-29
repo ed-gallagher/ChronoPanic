@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- MainActivity -->
+    <string name="app_name">ChronoPanic!!</string>
+    <string name="action_add_alarm">Add Alarm</string>
+    <string name="context_delete">Delete Alarm</string>
+    <!-- <string name="action_settings">Settings</string> -->
+
+
+    <!-- Alarm Editor -->
+    <string name="title_activity_alarm_editor">Add Alarm</string>
+    <string name="title_activity_alarm_editor_edit">Edit Alarm</string>
+    <string name="alarm_edit_time_lbl">Alarm Time</string>
+    <string name="alarm_edit_time_btn">Change</string>
+    <string name="alarm_edit_days_hint">Days to repeat</string>
+    <string name="alarm_edit_days_btn">Change</string>
+    <string name="alarm_edit_desc_hint">Alarm Description</string>
+
+    <!-- Alarm Editor: Day Picker Dialog -->
+    <string name="day_picker_mon">Monday</string>
+    <string name="day_picker_tues">Tuesday</string>
+    <string name="day_picker_wed">Wednesday</string>
+    <string name="day_picker_thurs">Thursday</string>
+    <string name="day_picker_fri">Friday</string>
+    <string name="day_picker_sat">Saturday</string>
+    <string name="day_picker_sun">Sunday</string>
+    <string name="day_picker_dialog_title">Repeat on:</string>
+    <string name="day_picker_positive_button">OK</string>
+    <string name="day_picker_negative_button">Cancel</string>
+    <string name="title_activity_game__wrath_of_kresch">Traffic Panic!!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="progress_bar">Progress Bar</string>
+    <string name="game_fail_text">Failed!!</string>
+    
+    <!-- Wrath of Kresch: Traffic Panic -->
+    <string name="wok_red_button">Red Button</string>
+    <string name="wok_yellow_button">Yellow Button</string>
+    <string name="wok_green_button">Green Button</string>
+    <string name="action_wok_shortcut">Wrath of Kresch</string>
+    <string name="wok_pattern_success">Kresch: Okay, I\'ll sign you off&#8230;</string>
+    <string name="wok_pattern_fail">Kresch: Nope, have to do it again&#8230;</string>
+    <string name="wok_start_button">Start!</string>
+    <string name="wok_start_desc">Match the pattern!</string>
+    
+    <!-- Sarvesh Drink Mixer -->
+    <string name="title_activity_game__sarvesh_drink_mixer">Sarvesh Drink Mixer</string>
+    <string name="action_sdm_shortcut">Sarvesh Drink Mixer</string>
+    <string name="sdm_start_button">Start!</string>
+    <string name="sdm_start_desc">Mix the Drink! (from bottom to top)</string>
+    <string name="sdm_wine">Wine Button</string>
+    <string name="sdm_gin">Gin Button</string>
+    <string name="sdm_whiskey">Whiskey Button</string>
+    <string name="sdm_pattern_success">Sarvesh: Ah, this is very tasty!</string>
+    <string name="sdm_pattern_fail">Sarvesh: You should see me for extra help&#8230;</string>
+    
+    <!-- Poke Penpen the Periwinkle Panda -->
+    <string name="title_activity_game__penpen_poke">Game_PenpenPoke</string>
+    <string name="action_ppp_shortcut">Poke Penpen</string>
+    <string name="ppp_start_button">Start!</string>
+    <string name="ppp_start_desc">Wake Penpen the Periwinkle Panda!</string>
+    <string name="ppp_penpen_button">Penpen Button</string>
+    <string name="ppp_pattern_success">Penpen: WAAAHAHHHH! Why did you wake me?!</string>
+    <string name="ppp_pattern_fail">Penpen: zzzzzzzz&#8230;</string>
+    
+    <!-- Alarm Audio Service -->
+    <string name="audio_play_error">An error occurred while sounding the alarm!</string>
+    <string name="audio_stop_error">An error occurred while stopping the alarm!</string>
+
+</resources>
